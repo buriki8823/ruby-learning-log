@@ -4,3 +4,9 @@
 - paiza Dランク Ruby
 - 標準入力（gets.chomp）
 - if文、繰り返し処理を学習
+
+
+## 2026-02-08
+- paiza Cランク Ruby
+- 標準入力（gets.chomp）
+- Rubyの基礎処理を繰り返し復習
