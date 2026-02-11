@@ -10,3 +10,8 @@
 - paiza Cランク Ruby
 - 標準入力（gets.chomp）
 - Rubyの基礎処理を繰り返し復習
+- 
+## 2026-02-11
+- paiza Cランク Ruby
+- 標準入力（gets.chomp）
+- Rubyの基礎処理を繰り返し復習
